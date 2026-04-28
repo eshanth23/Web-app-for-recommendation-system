@@ -1,5 +1,7 @@
 # Web-app-for-recommendation-system
 
+<img width="1887" height="913" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/68fb9005-7d45-4a2e-b534-8efb43f29952" />
+
 This repository contains a full-stack recommendation system web application with a **React + Vite + Firebase frontend** and a **FastAPI + Groq backend**.
 
 ---
